@@ -1,2 +1,3 @@
 # primeiro-site-escola
-atividade escola marvin
+
+https://king0-s2.github.io/primeiro-site-escola/
