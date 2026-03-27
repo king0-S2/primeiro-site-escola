@@ -1,5 +1,28 @@
-P{
+h1{
 
 color: blue;
-backgrond-color: yellow;
+
+background-color: blue;
+}
+
+h2{
+color: red;
+
+background-color: gray;
+
+}
+
+h3{
+
+color: yellow;
+
+background-color: brown;
+
+}
+
+p{
+
+  color: gray;
+
+  background-color: magenta;
 }
